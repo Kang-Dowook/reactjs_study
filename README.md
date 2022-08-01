@@ -6,7 +6,7 @@
 -------
 
 ## INDEX
-- [ ] 1장 ::: [ 첫 스터디 ](https://github.com/Kang-Dowook/reactjs_study/tree/master/first/README.md)
+- [ ] 1장 ::: [ 첫 스터디 ](https://github.com/Kang-Dowook/reactjs_study/blob/master/first/README.md)
 - [ ] 2장 :::
 - [ ] 3장 :::
 - [ ] 4장 :::
